@@ -1,3 +1,1 @@
-import os
-
-print("hello world")
+import system
